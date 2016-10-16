@@ -1,7 +1,7 @@
 
 XGB 
 ---
-XGB is a distributed and greedy gradient boosting library in dkb+/q designed to be highly ***efficient*** . It is a native implementation in kdb+/q and does not depende on other module.
+XGB is a distributed and greedy gradient boosting library in kdb+/q designed to be highly ***efficient*** . It is a native implementation in kdb+/q and does not depende on other module.
 It implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.
 XGB provides a native distributed tree boosting that solve many data science problems in a fast and accurate way.
 You can use xgb as long as the data is in memory or parted on disk.
